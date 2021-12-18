@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7iSiCpNH3T8ySAEfvNnIGNadKC6KfEuZoP+GzCFvczBcr0Fa519TeYxFej9McGz4c1EnHUYxLJMnJ1bu0pAwNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thinh\\Downloads\\c-sharp-design-patterns-data-access-patterns\\03\\demos\\Start_Here\\MyShop.Domain\\MyShop.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thinh\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\thinh\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
